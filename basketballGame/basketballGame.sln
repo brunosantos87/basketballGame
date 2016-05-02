@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basketballGame.CSharp.Plugins", "basketballGame.CSharp.Plugins.csproj", "{2F6A2C2E-A88B-2243-FB14-64561ADE35AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basketballGame.CSharp", "basketballGame.CSharp.csproj", "{0746E52B-1280-3D24-7565-38EAC7CA8D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basketballGame.CSharp.Editor", "basketballGame.CSharp.Editor.csproj", "{CF32B1CF-6D6A-50D7-B70D-FF1159380DFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F6A2C2E-A88B-2243-FB14-64561ADE35AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6A2C2E-A88B-2243-FB14-64561ADE35AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6A2C2E-A88B-2243-FB14-64561ADE35AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6A2C2E-A88B-2243-FB14-64561ADE35AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0746E52B-1280-3D24-7565-38EAC7CA8D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0746E52B-1280-3D24-7565-38EAC7CA8D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0746E52B-1280-3D24-7565-38EAC7CA8D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0746E52B-1280-3D24-7565-38EAC7CA8D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF32B1CF-6D6A-50D7-B70D-FF1159380DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF32B1CF-6D6A-50D7-B70D-FF1159380DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF32B1CF-6D6A-50D7-B70D-FF1159380DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF32B1CF-6D6A-50D7-B70D-FF1159380DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
